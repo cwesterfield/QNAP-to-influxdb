@@ -1,0 +1,10 @@
+qnap,Folder=Backups SizeinK=724
+qnap,Folder=Documents SizeinK=34357168
+qnap,Folder=Download SizeinK=300048792
+qnap,Folder=homes SizeinK=3024
+qnap,Folder=Multimedia SizeinK=1386521716
+qnap,Folder=Proxmox SizeinK=64627328
+qnap,Folder=Public SizeinK=724
+qnap,Folder=Recordings SizeinK=724
+qnap,Folder=tftp SizeinK=70596
+qnap,Folder=Web SizeinK=728
